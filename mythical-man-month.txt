@@ -1,0 +1,17 @@
+I recently read the (well written) Mythical Man Month by Frederick Brooks.
+It is surprising how many lessons of the 1970's apply to today (2011).
+
+Here are key points I have learned:
+
+* As the title of the book eludes to: people and time are not interchangeable
+  (at least not linearly).
+* There is a large difference between least and most productive
+  software engineers (10-20x)
+* Giant products need more than a handfull of high performers to
+  complete in a reasonable time.
+* Higher level languages increase productivity, decrease defects
+  [ruby, python!]
+* Purchasing 3rd party tools can save a lot of money and time.
+* Prototype early, engage user, iterate often [XP!]
+* Be aware of human dynamics important for smooth progress.
+* A project should have one master architect.
