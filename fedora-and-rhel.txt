@@ -1,5 +1,6 @@
 What is this book about?
-  This book whets your appetite on a variety of Linux topics for
+  This book whets your appetite on a variety of Linux topics, mostly related to
+  system administration.
 
 How is the book organized?
   This book consists of parts which consist of chapters.
