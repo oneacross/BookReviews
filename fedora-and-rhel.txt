@@ -1,0 +1,46 @@
+What is this book about?
+  This book whets your appetite on a variety of Linux topics for
+
+How is the book organized?
+  This book consists of parts which consist of chapters.
+  Each part begins with a list of chapter titles.
+  Each chapter begins with a list of objectives and its own page reference.
+  Each chapter ends with a summary and list of exercises.
+
+  The book starts with the story of how linux began, a great story for any
+  serious linux book to start with.
+  Then the book dives into some basic linux tools like the shell and the
+  file directory structure.
+  Then the book dives into some system admimistration concepts such as
+  security, root, and setting up a server.
+  Then the book dives into more details of setting up different types of
+  servers, like OpenSSH, FTP, and NFS.
+  The book finishes with a thorough introduction to bash and perl, 
+  exercising your programming fingers .
+
+  This book has a number of tables of contents, all of which I have used.
+  First, there is a terse one, only listing the major sections within each
+  chapter.
+  Next, there is a table of contents that shows more information about each
+  chapter.
+  Finally there is an interesting seciton called "JumpStarts" which is
+  designed to be a quick start to setup a server (package manager,
+  printing, database, openssh, ftp, email, nfs, samba, dns, firewall, 
+  apache.
+
+Who should read the book?
+  A linux system administrator.
+  A linux user who wants to become more knowledgable of linux.
+
+Who shouldn't read this book?
+  Someone who is interested in fine grain details of a specific linux
+  feature.
+
+An example of something I liked.
+
+An exmaple of something I didn't like.
+
+Did I like the book?
+  Yes, overall this book acheives its goals of getting the user interested 
+  and aware of a variety of linux topics.
+
