@@ -1,47 +1,49 @@
+Review:
+
+        "A Practical Guide to Fedora and Red Hat Enterprise Linux" (which I'll
+    refer to as "Fedora and RHEL" for short) explains how to set up, use, and
+    understand Linux, with a focus on the Fedora and RHEL distributions. This
+    book is daunting in size (over 1000 pages), but I do not recommend reading
+    it from start to finish. Instead I recommend jumping around to topics that
+    you either need to learn or that pique your interest.  In addition to a
+    well crafted table of contents, there is a two-page abbreviated contents
+    and a two-page "JumpStarts" guide that takes you directly to chapters that
+    describe setting up a client or server.
+
+        The book starts, as any good Linux book does, with the story of Linux, then
+    delves into the nitty gritty of installing Fedora or RHEL (complete with
+    hardware recommendations). Then the book dives into some basic linux tools
+    like the shell and file directory structure. The descriptions of key
+    foundational Linux topics such as standard input, standard output, and
+    redirection are excellently done. After this we get into core administration
+    concepts such as security, root, and setting up a server. I enjoyed
+    learning of security techniques such as setting up a chroot jail.  "Fedora
+    and RHEL" then dives into more details of setting up different types of
+    servers, like OpenSSH, FTP, and NFS.  The book finishes with a thorough
+    introduction to bash and perl. This is where I think the book tries to do
+    too much. Is Perl a necessary tool for Linux? I have recently found
+    myself converting Perl scripts into bash scripts because Linux ships with
+    some awesome builtin tools.
+
+        This book does a great job at teaching high level Linux concepts,
+    using graphs or tables when useful, accompanied by lower level details.
+    For these reasons, I thoroughly enjoyed this book, it has equipped me with
+    more Linux skills to tackly my day-to-day tasks. I would recommend
+    this book to a Linux system administrator, either as a reference or a
+    learning guide, especially if they are working with Fedora, RHEL, or
+    CentOS. Also, this book will turn Linux newbies into good Linux users and
+    good Linux users into power users.
+
+
+
+
 What is this book about?
-  This book whets your appetite on a variety of Linux topics, mostly related to
-  system administration.
-
 How is the book organized?
-  This book consists of parts which consist of chapters.
-  Each part begins with a list of chapter titles.
-  Each chapter begins with a list of objectives and its own page reference.
-  Each chapter ends with a summary and list of exercises.
-
-  The book starts with the story of how linux began, a great story for any
-  serious linux book to start with.
-  Then the book dives into some basic linux tools like the shell and the
-  file directory structure.
-  Then the book dives into some system admimistration concepts such as
-  security, root, and setting up a server.
-  Then the book dives into more details of setting up different types of
-  servers, like OpenSSH, FTP, and NFS.
-  The book finishes with a thorough introduction to bash and perl, 
-  exercising your programming fingers .
-
-  This book has a number of tables of contents, all of which I have used.
-  First, there is a terse one, only listing the major sections within each
-  chapter.
-  Next, there is a table of contents that shows more information about each
-  chapter.
-  Finally there is an interesting seciton called "JumpStarts" which is
-  designed to be a quick start to setup a server (package manager,
-  printing, database, openssh, ftp, email, nfs, samba, dns, firewall, 
-  apache.
-
 Who should read the book?
-  A linux system administrator.
-  A linux user who wants to become more knowledgable of linux.
-
 Who shouldn't read this book?
   Someone who is interested in fine grain details of a specific linux
   feature.
-
 An example of something I liked.
-
 An exmaple of something I didn't like.
-
 Did I like the book?
-  Yes, overall this book acheives its goals of getting the user interested 
-  and aware of a variety of linux topics.
 
