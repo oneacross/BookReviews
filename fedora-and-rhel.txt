@@ -19,18 +19,15 @@ Review:
     and setting up a server. I enjoyed learning of security techniques such as
     setting up a chroot jail.  "Fedora and RHEL" then dives into more details
     of setting up different types of servers, like OpenSSH, FTP, and NFS.  The
-    book finishes with a thorough introduction to bash and Perl. I felt that
-    the introduction to Perl did not fit in with the rest of the book. If you
-    want to learn Perl, go pick up a Perl book.
+    book finishes with a thorough introduction to bash and Perl.
 
-        This book does a great job at teaching high level Linux concepts,
-    using graphs or tables when useful, accompanied with lower level details.
-    For these reasons, I thoroughly enjoyed this book, it has equipped me with
-    more Linux skills to tackle my day-to-day tasks. I would recommend
-    this book to a Linux system administrator, either as a reference or a
-    learning guide, especially if they are working with Fedora, RHEL, or
-    CentOS. This book will turn Linux newbies into good Linux users and good
-    Linux users into power users.
+        "Fedora and RHEL" does a great job at teaching high level Linux
+    concepts along with the tools needed to get many jobs done. I thoroughly
+    enjoyed this book, it has equipped me with more Linux skills to tackle my
+    day-to-day tasks. I would recommend this book to a Linux system
+    administrator, either as a reference or a learning guide, especially if
+    they are working with Fedora, RHEL, or CentOS. "Fedora and RHEL" will turn
+    Linux newbies into good Linux users and good Linux users into power users.
 
     Reviewed by Matt Mendell, NVIDIA Corp, matthew.mendell@gmail.com
 
